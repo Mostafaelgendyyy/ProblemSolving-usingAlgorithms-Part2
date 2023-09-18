@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/FCAI MATERIALS/alg assignment2/p7/main.cpp
+iostream
+-
+queue
+-
+vector
+-
+algorithm
+-
+cmath
+-
+cstring
+-
+

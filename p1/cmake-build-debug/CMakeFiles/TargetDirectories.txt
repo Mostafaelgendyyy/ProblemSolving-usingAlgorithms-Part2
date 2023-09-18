@@ -1,0 +1,3 @@
+E:/FCAI MATERIALS/alg assignment2/p1/cmake-build-debug/CMakeFiles/p1.dir
+E:/FCAI MATERIALS/alg assignment2/p1/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/FCAI MATERIALS/alg assignment2/p1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
